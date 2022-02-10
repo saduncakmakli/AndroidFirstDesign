@@ -4,11 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-large-land/activity_main.xml" value="1.0" />
-        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-large/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-xlarge-land/activity_main.xml" value="1.0" />
-        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-xlarge/activity_main.xml" value="0.5" />
-        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-large-land/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-large/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-xlarge-land/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout-xlarge/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/msadu/StudioProjects/MyDesign/app/src/main/res/mipmap-anydpi-v26/filament.xml" value="0.1" />
       </map>
     </option>
   </component>

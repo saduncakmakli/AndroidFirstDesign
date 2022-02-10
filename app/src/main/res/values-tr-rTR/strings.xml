@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filament Dükkanı</string>
+    <string name="filament_dukkani_ozel_isim">Filament Dükkanı</string>
+    <string name="sepete_ekle">SEPETE EKLE</string>
+    <string name="KG_Beyaz_PLA">1KG Beyaz PLA</string>
+    <string name="KG_Kirmizi_PLA">1KG Kırmızı PLA</string>
+    <string name="KG_Naturel_PLA">1KG Naturel PLA</string>
+    <string name="KG_Ahşap_PLA">1KG Ahşap PLA</string>
+    <string name="KG_Zümrüt_PLA">1KG Zümrüt PLA</string>
+    <string name="KG_Yakut_PLA">1KG Yakut PLA</string>
+    <string name="currency165">165 ₺</string>
+    <string name="currency150">150 ₺</string>
+    <string name="currency420">420 ₺</string>
+    <string name="currency235">235 ₺</string>
+</resources>

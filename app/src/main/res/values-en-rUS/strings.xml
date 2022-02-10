@@ -1,15 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Filament Market</string>
     <string name="filament_dukkani_ozel_isim">Filament Market</string>
-    <string name="sepete_ekle">SEPETE EKLE</string>
-
+    <string name="sepete_ekle">ADD TO CHART</string>
     <string name="KG_Beyaz_PLA">1KG White PLA</string>
     <string name="KG_Kirmizi_PLA">1KG Red PLA</string>
     <string name="KG_Naturel_PLA">1KG Naturel PLA</string>
     <string name="KG_Ahşap_PLA">1KG Wood PLA</string>
     <string name="KG_Zümrüt_PLA">1KG Emerald PLA</string>
     <string name="KG_Yakut_PLA">1KG Ruby PLA</string>
-
     <string name="currency165">10 $</string>
     <string name="currency150">9 $</string>
     <string name="currency420">25 $</string>
